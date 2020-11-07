@@ -33,11 +33,12 @@ Graduate类首先引入了java.util.Scanner
 - 重写int getPay（），研究生获得工资1500  
 
 - 新增方法boolean isLoan（），判断是否需要交税（若年收入小于42000元则无需交税）  
-使用try{
+
+- 使用try{
        }catch结构检查输入是否有误，如有误则报错并提醒  
 ## 五、程序运行截图  
 ![无需缴税](https://github.com/FanJiahang/Experiment-4-2020/blob/main/%E6%97%A0%E9%9C%80%E4%BA%A4%E7%A8%8E.png)  
 ![需要缴税](https://github.com/FanJiahang/Experiment-4-2020/blob/main/%E9%9C%80%E7%BC%B4%E7%A8%8E.png)  
 ![错误输入](https://github.com/FanJiahang/Experiment-4-2020/blob/main/%E9%94%99%E8%AF%AF%E8%BE%93%E5%85%A5.png)  
 ## 六、编程感想  
-   
+在这次实验中，我初步掌握了Java中抽象类和抽象方法以及接口的定义，及其他们的定义形式和接口之间的实现方法，在第一版代码完成后，测试时发现如果输入为非纯数字会报错，于是在老师的提醒下，加入了try{}catch结构，使得程序更为完整，在输入有误时能够提醒用户进行更正。这次的经历也提醒了我在编写程序时，应更为周全的进行考虑，将所有可能发生的情况均做出相应的处理。
