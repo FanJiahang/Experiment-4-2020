@@ -36,6 +36,8 @@ Graduate类首先引入了java.util.Scanner
 使用try{
        }catch结构检查输入是否有误，如有误则报错并提醒  
 ## 五、程序运行截图  
-![运行截图](https://raw.githubusercontent.com/FanJiahang/Experiment-3-2020/main/java_experiment_3.png)  
+![无需缴税](https://github.com/FanJiahang/Experiment-4-2020/blob/main/%E6%97%A0%E9%9C%80%E4%BA%A4%E7%A8%8E.png)  
+![需要缴税](https://github.com/FanJiahang/Experiment-4-2020/blob/main/%E9%9C%80%E7%BC%B4%E7%A8%8E.png)  
+![错误输入](https://github.com/FanJiahang/Experiment-4-2020/blob/main/%E9%94%99%E8%AF%AF%E8%BE%93%E5%85%A5.png)  
 ## 六、编程感想  
    
